@@ -5,7 +5,7 @@
            ***4 W'S AND 1H*** <br/>
            **WHO:**<br/>
                       Used by students,teachers anyone who want to test their knowledge.<br/>
-           **WHEN:**
+           **WHEN:**<br/>
                       During testor while playing a game for fun.<br/>
            **WHAT:**<br/>
                       This is a quizgame played to test one's knowledge.<br/>
