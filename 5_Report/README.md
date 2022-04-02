@@ -34,3 +34,6 @@
 | LR04 | Displaying the topscorers  | HR04| Implemented |
 | LR05 |exiting the game after finishing it | HR05| Implemented |
 | LR06 |A clean graphical user interface with all required buttons for ease of use  | HR06| Future |
+## SWOT ANALYSIS:
+![swot](https://user-images.githubusercontent.com/101057218/161398687-f2bbe1c7-3418-47fe-a26b-8151dddeaab8.jpg)
+
