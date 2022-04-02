@@ -13,5 +13,27 @@
                       This can be used by anyone who can acess the digital world.<br/>
            **HOW:**<br/>
                       This is accomplished by asking a set of predefined questions to the user<br/>
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HR01 |Main| Implemented |
+| HR02 | start | Implemented |
+| HR03 | help |  Implemented |
+| HR04 | highscore |  Implemented |
+| HR05 | exit |Implemented|
+| HR06 | Graphical User Interface | Future |
+
+
+## Low Level Requirements 
+
+| ID | Description | HR ID | Status |
+|--|--|--|--|
+| LR01 |Main menu should consist 4 options: 1.Main, 2.Start, 3.Highscore,4.Exit  | HR01| Implemented |
+| LR02 | Reading user input to select particular option | HR01| Implemented |
+| LR03 | To display the instructions of the game  | HR03| Implemented |
+| LR04 | Displaying the topscorers  | HR04| Implemented |
+| LR05 |exiting the game after finishing it | HR05| Implemented |
+| LR06 |A clean graphical user interface with all required buttons for ease of use  | HR06| Future |
+
             
           
