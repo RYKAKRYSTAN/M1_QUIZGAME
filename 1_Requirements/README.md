@@ -13,6 +13,8 @@
                       This can be used by anyone who can acess the digital world.<br/>
            **HOW:**<br/>
                       This is accomplished by asking a set of predefined questions to the user<br/>
+ ## SWOT ANALYSIS:
+![swot](https://user-images.githubusercontent.com/101057218/161398687-f2bbe1c7-3418-47fe-a26b-8151dddeaab8.jpg)
 ## High Level Requirements
 | ID | Description | Status |
 |--|--|--|
