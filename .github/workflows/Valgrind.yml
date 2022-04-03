@@ -21,4 +21,4 @@ jobs:
     - name: make test
       run: |
         make test -C  M1_Quizgame/3_Implementation/
-        valgrind ./M1 Quizgame/3_Implementation/build/Testquiz.out
+        valgrind ./M1 Quizgame/3_Implementation/build/testquiz.out
