@@ -5,3 +5,5 @@ CODIGA_SCORE:
            ![codiga Score](https://api.codiga.io/project/32491/score/svg)
 CPP_CHECK:
            [![cppcheck-action](https://github.com/RYKAKRYSTAN/M1_Quizgame/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/RYKAKRYSTAN/M1_Quizgame/actions/workflows/cppcheck.yml)
+ANALYSIS:
+           [![Analysis](https://github.com/RYKAKRYSTAN/M1_Quizgame/actions/workflows/analysis.yml/badge.svg)](https://github.com/RYKAKRYSTAN/M1_Quizgame/actions/workflows/analysis.yml)
